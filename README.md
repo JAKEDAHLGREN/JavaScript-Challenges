@@ -1,1 +1,1 @@
-# JavaScript-Challenges-Jake
+# JavaScript-Challenges
